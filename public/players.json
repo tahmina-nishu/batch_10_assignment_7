@@ -1,0 +1,74 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/WGPbMG0/Virat-Kohli.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": "2.4M"
+    },
+    {
+        "playerId": 2,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/68gsmJB/Kane-Williamson.png",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1.8M"
+    },
+    {
+        "playerId": 3,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/fkJ3615/Babar-Azam.jpg",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": "2.0M"
+    },
+    {
+        "playerId": 4,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/WnRGG4R/Glan-Maxwell.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "2.1M"
+    },
+    {
+        "playerId": 5,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/fkJ3615/Babar-Azam.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1.9M"
+    },
+    
+    {
+        "playerId": 6,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/x84XG4j/rashid-khan.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": "1.5M"
+    },
+   
+    {
+        "playerId": 7,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/v3TbKWJ/shakib-al-hasan.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": "1.8M"
+    }
+]
